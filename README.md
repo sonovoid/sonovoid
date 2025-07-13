@@ -9,7 +9,7 @@
 		</td>
 	</tr>
 </table>
-[![My Last.fm](https://lastfm-recently-played-readme-rho.vercel.app/api?user=xsonority&header_style=compact_stats&footer_style="wave")](https://www.last.fm/user/xsonority)
+[![My Last.fm](https://lastfm-recently-played-readme-rho.vercel.app/api?user=xsonority&header_style=compact_stats&footer_style=wave&maxage=60)](https://www.last.fm/user/xsonority)
 <!--
 **sonovoid/sonovoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
