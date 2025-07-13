@@ -9,7 +9,11 @@
 		</td>
 	</tr>
 </table>
-<img src="https://lastfm-recently-played-readme-rho.vercel.app/api?user=xsonority&header_style=compact_stats&footer_style=wave&maxage=60"/>
+<p align="center">
+  <a href="https://www.last.fm/user/xsonority">
+    <img src="https://lastfm-recently-played-readme-rho.vercel.app/api?user=xsonority&header_style=compact_stats&footer_style=wave&maxage=60" />
+  </a>
+</p>
 <!--
 **sonovoid/sonovoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
