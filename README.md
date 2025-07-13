@@ -5,7 +5,7 @@
 			<img src="https://github-readme-stats-chi-ruddy.vercel.app/api?username=sonovoid&count_private=true&show_icons=true&hide_rank=true&theme=transparent" />
 		</td>
 		<td>
-			<img src="https://github-readme-stats-chi-ruddy.vercel.app/api/top-langs?username=sonovoid&count_private=true&&langs_count=4&layout=donut&theme=transparent" />
+			<img src="https://github-readme-stats-chi-ruddy.vercel.app/api/top-langs?username=sonovoid&count_private=true&&langs_count=4&layout=pie&theme=transparent" />
 		</td>
 	</tr>
 </table>
