@@ -11,7 +11,7 @@
 </table>
 <p align="center">
   <a href="https://www.last.fm/user/xsonority">
-    <img src="https://lastfm-recently-played-readme-rho.vercel.app/api?user=xsonority&header_style=compact_stats&footer_style=wave&width=800" />
+    <img src="https://lastfm-recently-played-readme-rho.vercel.app/api?user=xsonority&header_style=compact_stats&footer_style=wave&width=750" />
   </a>
 </p>
 <!--
