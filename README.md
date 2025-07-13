@@ -1,5 +1,14 @@
 ### Hi there 👋
-<img src="https://github-readme-stats.vercel.app/api?username=sonovoid&&show_icons=true&hide_rank=true&theme=transparent">
+<table align="center">
+	<tr>
+		<td>
+			<img src="https://github-readme-stats-chi-ruddy.vercel.app/api?username=sonovoid&count_private=true&show_icons=true&hide_rank=true&theme=transparen" />
+		</td>
+		<td>
+			<img src="https://github-readme-stats-chi-ruddy.vercel.app/api/top-langs?username=sonovoid&count_private=true&layout=compact&theme=transparent" />
+		</td>
+	</tr>
+</table>
 <!--
 **sonovoid/sonovoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
